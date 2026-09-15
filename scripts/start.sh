@@ -2,7 +2,7 @@
 
 set -e
 
-cd /opt/docker-project
+cd /home/ubuntu/docker-project
 
 docker build -t docker-project:latest .
 
