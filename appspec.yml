@@ -8,7 +8,6 @@ files:
     overwrite: true
 
 hooks:
-
   AfterInstall:
     - location: deploy/after-install.sh
       timeout: 300
